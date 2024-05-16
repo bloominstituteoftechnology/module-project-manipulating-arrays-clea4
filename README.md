@@ -1,4 +1,4 @@
-# Manipulating Arrays - Module Project
+# Advanced Objects - Module Project
 
 ## Instructions
 
